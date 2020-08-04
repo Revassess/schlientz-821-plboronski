@@ -1,0 +1,1 @@
+SELECT * FROM app_user u INNER JOIN user_role r ON u.role_id = r.role_id WHERE r.name LIKE 'BASIC_USER'; 
