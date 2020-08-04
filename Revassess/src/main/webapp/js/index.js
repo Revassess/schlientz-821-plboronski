@@ -11,9 +11,9 @@ window.addEventListener('load',callFlashcardApi);
 
 let resp;
 
-//assign the returned json to the resp variable
+/*assign the returned json to the resp variable*/
 async function callFlashcardApi(){
-}
+};
 
 //manipulate the dom with this function
 function manipDom(){
