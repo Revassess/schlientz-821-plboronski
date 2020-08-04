@@ -4,4 +4,5 @@ git:
     depth: false
 script: ./build.sh
 notifications:
-    email: plboronski@gmail.com
+    email: 
+        - plboronski@gmail.com
