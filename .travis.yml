@@ -4,6 +4,6 @@ git:
     depth: false
 script: ./ci.sh
 notifications:
-    email: plboronski@gmail.com
+    email: 
     #enter your email address below
-        - example@example.com
+        - plboronski@gmail.com
